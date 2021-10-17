@@ -1,5 +1,4 @@
-
 ---
-title: "Github Lab Session"
-date: 2021-08-17
+title: "Github"
+date: 2006-08-17
 ---
